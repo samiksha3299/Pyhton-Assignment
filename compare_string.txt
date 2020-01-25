@@ -1,0 +1,20 @@
+1)if z<a
+  print("z is less than a")
+else 
+  print("z is not less than a")
+
+output:z is not less
+
+
+
+2)s1=new york
+s2=boston
+if s1>s2:
+ print(s2)
+ print(s1)
+else
+ print(s1)
+ print(s2)
+ 
+output:boston
+
